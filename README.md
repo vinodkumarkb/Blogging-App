@@ -1,6 +1,7 @@
 BLOGGING APP
 
 TOOLS:
+
 AWS : Creating virtual machines .
 Jenkins for automating the build, test, and deployment processes.
 SonarQube for static code analysis to ensure code quality.
